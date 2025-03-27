@@ -1,0 +1,118 @@
+/* Banner */
+.banner {
+  position: relative;
+}
+.banner .wrap1 {
+  width: 231px;
+  height: 231px;
+  background-color: #00c5bf;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  position: absolute;
+  top: 50px;
+  right: 150px;
+  opacity: 0.7;
+}
+.banner .wrap2 {
+  width: 131px;
+  height: 131px;
+  background-color: #ffe648;
+  border-top-left-radius: 50px;
+  opacity: 0.7;
+  position: absolute;
+  top: 210px;
+  right: 310px;
+}
+.banner .wrap-bot {
+  width: 336px;
+  height: 336px;
+  background-color: #4e77ec;
+  opacity: 0.5;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+  position: absolute;
+  left: 150px;
+  bottom: -100px;
+}
+/* KIDAWARE */
+.kida .body {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 50px;
+  padding: 200px 0;
+}
+.kida .body .left {
+  width: 573px;
+  height: 573px;
+  background-color: #00c5bf;
+  border-top-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.kida .body .info {
+  width: 572px;
+}
+.kida .body .info p {
+  font-size: 3.6rem;
+  line-height: 1.8;
+  color: #111e4c;
+}
+.kida .body .info .btn {
+  width: 237px;
+  height: 64px;
+  font-size: 1.6rem;
+  line-height: 1.8;
+  background-color: #ff4e0a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  border-radius: 50px;
+  margin: 50px auto 0px;
+}
+/* Safe */
+
+.safe .body {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 50px;
+  padding: 100px 0;
+}
+.safe .body .right {
+  width: 573px;
+  height: 573px;
+  background-color: #4e77cc;
+  border-top-right-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.safe .body .info {
+  width: 572px;
+}
+.safe .body .info p {
+  font-size: 3.6rem;
+  line-height: 1.8;
+  color: #111e4c;
+}
+.safe .body .info .btn {
+  width: 237px;
+  height: 64px;
+  font-size: 1.6rem;
+  line-height: 1.8;
+  background-color: #ff4e0a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  border-radius: 50px;
+  margin: 50px auto 0px;
+}
+/*  */

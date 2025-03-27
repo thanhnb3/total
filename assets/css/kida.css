@@ -1,0 +1,154 @@
+/* Banner */
+.banner .body {
+  position: relative;
+}
+.banner .body .wrap1 {
+  height: 336px;
+  width: 336px;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  background-color: #00c5bf;
+  opacity: 0.7;
+  position: absolute;
+  left: 360px;
+  bottom: -120px;
+}
+.banner .body .wrap2 {
+  width: 131px;
+  height: 131px;
+  background-color: #ffe648;
+  opacity: 0.7;
+  position: absolute;
+  left: 631px;
+  bottom: -65px;
+  border-top-left-radius: 50px;
+}
+/* Industry */
+.industry {
+  padding: 250px 0;
+  position: relative;
+}
+.industry .body .title {
+  font-size: 5.2rem;
+  line-height: 1;
+  color: #111e4c;
+  margin-bottom: 20px;
+}
+.industry .body .desc {
+  font-size: 3rem;
+  line-height: 1.8;
+  color: #111e4c;
+  margin-bottom: 20px;
+}
+.industry .body span {
+  color: #ffa684;
+}
+.industry .body .btn {
+  width: 200px;
+  height: 64px;
+  border-radius: 50px;
+  background-color: #00c5bf;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.industry .line {
+  position: absolute;
+  bottom: -180px;
+}
+/* Works */
+.work {
+  padding: 250px 0;
+  background-color: #111e4c;
+}
+.work .body {
+  text-align: center;
+}
+.work .title {
+  font-size: 8.6rem;
+  line-height: 1;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.work .desc {
+  font-size: 2rem;
+  line-height: 1.8;
+  color: #ffffff;
+  margin-bottom: 50px;
+}
+.work .list {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}
+.work .list .item {
+  width: 270px;
+}
+.work .list .desc-2 {
+  margin-top: 20px;
+  color: #ffffff;
+  text-align: left;
+  font-size: 1.5rem;
+  line-height: 1.8;
+}
+/* How */
+.how {
+  padding: 250px 0;
+  position: relative;
+}
+.how .body {
+  text-align: center;
+}
+.how .title {
+  font-size: 8.6rem;
+  line-height: 1;
+  color: #111e4c;
+  margin-bottom: 20px;
+}
+.how .desc {
+  font-size: 2rem;
+  line-height: 1.8;
+  color: #111e4c;
+  margin-bottom: 50px;
+}
+.how .list {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+  margin-bottom: 100px;
+}
+.how .list .item {
+  width: 270px;
+}
+.how .list .desc-2 {
+  margin-top: 20px;
+  color: #111e4c;
+  text-align: left;
+  font-size: 1.5rem;
+  line-height: 1.8;
+}
+.how .title-2 {
+  width: 1000px;
+  margin: 0 auto;
+  font-size: 3.8rem;
+  line-height: 1.2;
+  color: #111e4c;
+  margin-bottom: 20px;
+}
+.how .btn {
+  width: 200px;
+  height: 64px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+  background-color: #00c5bf;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  margin-top: 50px;
+}
