@@ -136,6 +136,9 @@ a {
   width: 0;
   left: 50%;
 }
+.header .menu-mobile {
+  display: none;
+}
 /* ########## SLIDER ############ */
 .slider {
   width: 100%;
