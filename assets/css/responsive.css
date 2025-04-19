@@ -409,3 +409,8 @@
     color: #111e4c;
   }
 }
+/* Responsive */
+/* Repson từ header xuống
+- Kích thước nếu không muốn quy định lại có thể set theo % chiều rộng, chiều cao khung nhìn từ bản PC
+- Có thể phải responsive cho nhiều thiết bị với nhièu kích thước khác nhau.
+*/
