@@ -405,6 +405,9 @@ a {
   border-bottom-right-radius: 50px;
   opacity: 0.7;
 }
+.diverse .item2-mb {
+  display: none;
+}
 
 .diverse .item2 {
   display: flex;
@@ -478,6 +481,9 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+.brand .title.mobile {
+  display: none;
 }
 .brand .list {
   width: 620px;
